@@ -2,62 +2,56 @@
 <?xml-stylesheet type="text/css" href="style.css"?>
 
 <coverBand_songList>
-    <title>Gary Mullen and The Works' Song List</title>
+    <title>GARY MULLEN AND THE WORKS' SONG LIST</title>
 
     <!--Pop Rock-->
     <music_genre>
-        <genre_name>Pop Rock</genre_name>
+        <genre_name>POP Rock</genre_name>
 
-        <song1>
+        <song>
           <song_name>Bohemian Rhabsody</song_name>
-          <artist_name>Queen</artist_name>
+          <artist>Queen</artist>
           <year>1975</year>
-        </song1>
+        </song>
 
-        <song2>
+        <song>
           <song_name>Don't Stop Me Now</song_name>
-          <artist_name>Queen</artist_name>
+          <artist>Queen</artist>
           <year>1978</year>
-        </song2>
+        </song>
     </music_genre>
 
     <!--Soft Rock-->
     <music_genre>
         <genre_name>Soft Rock</genre_name>
 
-        <song1>
+        <song>
           <song_name>Love of My Life</song_name>
-          <artist_name>Queen</artist_name>
+          <artist>Queen</artist>
           <year>1975</year>
-        </song1>
+        </song>
 
-        <song2>
+        <song>
           <song_name>Baby I Love Your Way</song_name>
-          <artist_name>Peter Frampton</artist_name>
+          <artist>Peter Frampton</artist>
           <year>1994</year>
-        </song2>
-
-        <song3>
-          <song_name>You're Beautiful</song_name>
-          <artist_name>James Blunt</artist_name>
-          <year>2004</year>
-        </song3>
+        </song>
     </music_genre>
 
     <!--Alternative Rock-->
     <music_genre>
         <genre_name>Alternative Rock</genre_name>
 
-        <song1>
+        <song>
           <song_name>Smells Like Teen Spirit</song_name>
-          <artist_name>Nirvana</artist_name>
+          <artist>Nirvana</artist>
           <year>1991</year>
-        </song1>
+        </song>
 
-        <song2>
+        <song>
           <song_name>The Man Who Sold The World</song_name>
-          <artist_name>Nirvana</artist_name>
+          <artist>Nirvana</artist>
           <year>1994</year>
-        </song2>
+        </song>
     </music_genre>
 </coverBand_songList>
