@@ -54,4 +54,38 @@
           <year>1994</year>
         </song>
     </music_genre>
+
+    <!--Hard Rock-->
+    <music_genre>
+        <genre_name>Hard Rock</genre_name>
+
+        <song>
+          <song_name>Californiacation</song_name>
+          <artist>Red Hot Chili Peppers</artist>
+          <year>1999</year>
+        </song>
+
+        <song>
+          <song_name>Scar Tissue</song_name>
+          <artist>Red Hot Chili Peppers</artist>
+          <year>1999</year>
+        </song>
+    </music_genre>
+
+    <!--Funk Rock-->
+    <music_genre>
+        <genre_name>Funk Rock</genre_name>
+
+        <song>
+          <song_name>Trampled Under Foot</song_name>
+          <artist>Led Zeppelin</artist>
+          <year>1975</year>
+        </song>
+
+        <song>
+          <song_name>The Stroke</song_name>
+          <artist>Billy Squier</artist>
+          <year>1981</year>
+        </song>
+    </music_genre>
 </coverBand_songList>
